@@ -1,15 +1,18 @@
 # R6-Downloader
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ### Welcome To R6Downloader By: @AKrisz2 And Hot Fixed By: @The-Chilliest-Willy-Ever
-![Operation Throwback](https://discord.gg/JGA9WPF4K8)
 
-![Renegades: Old Siege TMs](https://discord.gg/aaXH3wWEjH)
+[WiKi](https://github.com/The-Chilliest-Willy-Ever/R6-Downloader/wiki/Basics)
 
-![Modded LAN Party](https://discord.gg/e5quBRNy)
+[Operation Throwback](https://discord.gg/JGA9WPF4K8)
 
-![R6S Modding United](https://discord.gg/kHZW3EchtB)
+[Renegades: Old Siege TMs](https://discord.gg/aaXH3wWEjH)
 
-![Operation Throwback: EU Ten Man's](https://discord.gg/gJkx5GJhMP)
+[Modded LAN Party](https://discord.gg/e5quBRNy)
+
+[R6S Modding United](https://discord.gg/kHZW3EchtB)
+
+[Operation Throwback: EU Ten Man's](https://discord.gg/gJkx5GJhMP)
 
 This HotFix fixes the bug where it Keeps asking you to update Windows App Runtime 1.5 When you update this it still asks you to update it:
 ![Screenshot_2025-01-06_173003](https://github.com/user-attachments/assets/b2e4c279-4da6-4d5b-bc09-881b376e4a76)
