@@ -16,17 +16,21 @@
 
 ### To add:
 
-* Discord tab in downloader
+- [ ] Discord tab in downloader
 
-* Mod tab in downloader
+- [ ] Mod tab in downloader
 
-* Faq tab in downloader
+- [ ] Faq tab in downloader
 
-* Credits tab in downloader
+- [ ] Credits tab in downloader
 
-* FaQ/WiKi Readme in github repo
+- [ ] Background changer in downloader
 
-* Sln update
+- [ ] FaQ/WiKi Readme in github repo
+
+- [ ] Sln update
+
+Please make an issue if you have any faults. 
 
 This HotFix fixes the bug where it Keeps asking you to update Windows App Runtime 1.5 When you update this it still asks you to update it:
 ![Screenshot_2025-01-06_173003](https://github.com/user-attachments/assets/b2e4c279-4da6-4d5b-bc09-881b376e4a76)
