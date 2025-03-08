@@ -1,7 +1,9 @@
 # R6-Downloader
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ### Welcome To R6Downloader By: @AKrisz2 And Hot Fixed By: @The-Chilliest-Willy-Ever
-
+---------
+THIS DOWNLOADER WILL BE DEPRICATED SOON. I WILL BE FOCUSING ON A NEW DOWNLOADER FOR MODS.
+---------
 [WiKi](https://github.com/The-Chilliest-Willy-Ever/R6-Downloader/wiki/Basics)
 
 [Operation Throwback](https://discord.gg/JGA9WPF4K8)
