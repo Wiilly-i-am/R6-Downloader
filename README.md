@@ -28,9 +28,6 @@ THIS DOWNLOADER WILL BE DEPRICATED SOON. I WILL BE FOCUSING ON A NEW DOWNLOADER 
 
 - [ ] Background changer in downloader
 
-- [*] FaQ/WiKi Readme in github repo
-
-- [*] Sln update
 
 Please make an issue if you have any faults.
 
