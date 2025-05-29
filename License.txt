@@ -1,7 +1,7 @@
-2pac license, adopted by this repo,
+2pac license,
 
 Copyright (c) 2023 NiceAesth - Creator of License
-Copyright (c) 2024 - Current - Creator of Repo and Hotfix
+Copyright (c) 2024 WillyNull
 
 !! LICENSE ENFORCEMENT NOTICE !!
 
