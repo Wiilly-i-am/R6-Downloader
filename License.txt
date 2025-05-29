@@ -3,7 +3,18 @@
 Copyright (c) 2023 NiceAesth - Creator of License
 Copyright (c) 2024 - Current - Creator of Repo and Hotfix
 
-If you use this downloader Please Credit it and the Creator.
+!! LICENSE ENFORCEMENT NOTICE !!
+
+This project is protected under the 2pac License. Any use of this downloader or any content derived from it (such as videos or public posts featuring old R6 builds obtained through it) **must include proper attribution** to:
+- The original creator: Akrisz
+- Hotfix maintainer: Wiilly-i-am
+- The group: Operation Throwback
+- This repository: https://github.com/Wiilly-i-am/R6-Downloader
+
+Failure to follow the license terms **will result in a DMCA takedown request** on platforms where the work is being used or monetized.
+
+Respect creators. Respect the license.
+
 
 This the 2pac License, a regulation bout’ gettin’ paid when yer’ creative work's display'd. When yo’ work's used, it's yo’ time ta’ get yo’ props an’ get yo’ due.
 
