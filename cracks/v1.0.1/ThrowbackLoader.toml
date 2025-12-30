@@ -1,0 +1,5 @@
+[general]
+username = 'R6ThrowbackUser' # edit to change in-game username. Limit to 16 characters
+
+[advanced]
+custom_user_id = '' # used to override the default user id ("R6Throwback_" followed by the season name), leave blank to use the default setting. This setting controls the foldername in Documents\Rainbow Six - Siege
