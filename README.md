@@ -17,17 +17,6 @@ THIS DOWNLOADER WILL BE DEPRICATED SOON. I WILL BE FOCUSING ON A NEW DOWNLOADER 
 
 [Operation Throwback: EU Ten Man's](https://discord.gg/gJkx5GJhMP)
 
-### To add:
-
-- [ ] Discord tab in downloader
-
-- [ ] Mod tab in downloader
-
-- [ ] Faq tab in downloader
-
-- [ ] Credits tab in downloader
-
-- [ ] Background changer in downloader
 
 
 Please make an issue if you have any faults.
