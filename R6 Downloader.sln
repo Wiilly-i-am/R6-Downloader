@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R6 Downloader", "R6 Downloader.csproj", "{F6C6959A-F97D-38C9-075E-4DF5B551294D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6C6959A-F97D-38C9-075E-4DF5B551294D}.Debug|x64.ActiveCfg = Debug|x64
+		{F6C6959A-F97D-38C9-075E-4DF5B551294D}.Debug|x64.Build.0 = Debug|x64
+		{F6C6959A-F97D-38C9-075E-4DF5B551294D}.Release|x64.ActiveCfg = Release|x64
+		{F6C6959A-F97D-38C9-075E-4DF5B551294D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0D389AD-52BF-482B-B114-A8AA6BC89586}
+	EndGlobalSection
+EndGlobal
